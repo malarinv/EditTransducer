@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pynini = ">=1.9"
+"9909e1f" = {file = "http://www.opengrm.org/twiki/pub/GRM/PyniniDownload/pynini-1.9.1.tar.gz"}
+
+[dev-packages]
+
+[requires]
+python_version = "2.7"

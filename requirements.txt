@@ -1,1 +1,1 @@
-pynini>=1.6
+pynini>=1.9
