@@ -5,6 +5,7 @@
 -   `brew install -v https://github.com/malarinv/homebrew-science/raw/master/Formula/openfst.rb`
 -   `brew install -v re2`
 -   `pipenv install --skip-lock http://www.opengrm.org/twiki/pub/GRM/PyniniDownload/pynini-1.9.1.tar.gz`
+-   `pipenv install --skip-lock https://github.com/malarinv/EditTransducer/archive/master.zip`
 
 #### Linux (Tested on Centos 7)
 
@@ -28,3 +29,4 @@
       make -j4 && make install
 -   `sudo yum install -y re2-devel`
 -   `pipenv install --skip-lock http://www.opengrm.org/twiki/pub/GRM/PyniniDownload/pynini-1.9.1.tar.gz`
+-   `pipenv install --skip-lock https://github.com/malarinv/EditTransducer/archive/master.zip`
